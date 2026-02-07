@@ -135,6 +135,10 @@ emnist-letters-train-labels-idx1-ubyte
 
 # Folders
 
+# C1_M4:
+cifar_100
+c2_preview
+
 # C2_M1:
 .Trash-0/
 cifar10/
